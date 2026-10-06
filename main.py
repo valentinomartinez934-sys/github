@@ -9,7 +9,7 @@ puntos = 0
 contador = 1
 
 print("esto es un programa para mejorar la pronunciacion en ingles, al acabar de repite")
-
+print("")
 
 while contador > 0:
     print("puntos actuales: ", puntos)
